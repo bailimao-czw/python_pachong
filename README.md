@@ -1,4 +1,4 @@
-# python_pachong
-python爬虫初学者的学习笔记
+＃python_pachon
+我使用的是pychram,python3.7
 
-Hi , my name is *** 
+请保证运行前已下载相应的Python库：request，BeautifulSoup，os等
